@@ -1,0 +1,13 @@
+Github token
+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
+
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://taetae0715: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@github.com/taetae0715/test1.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
